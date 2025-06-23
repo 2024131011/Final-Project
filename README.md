@@ -52,11 +52,10 @@
 
 from 2024131011_final_project import Fraction
 
-f1 = Fraction(2, 3)
-f2 = Fraction(1, 6)
+f1 = Fraction(2, 3), f2 = Fraction(1, 6)
 
-print(f1 + f2)     --> 5/6
-print(f1 * f2)     --> 1/9
-print(f1 ** 2)     --> 4/9
-print(1 - f1)      --> 1/3
-print(f1 > f2)     --> True
+- print(f1 + f2)     --> 5/6
+- print(f1 * f2)     --> 1/9
+- print(f1 ** 2)     --> 4/9
+- print(1 - f1)      --> 1/3
+- print(f1 > f2)     --> True
